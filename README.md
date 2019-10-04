@@ -1,2 +1,2 @@
-"# NAMES"
-"* Alexander Vega"
+# NAMES
+* Alexander Vega
